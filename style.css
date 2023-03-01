@@ -87,19 +87,61 @@ buttpon2{
 }
 
 #image10{
-    width: 20%;
-    height: 10%;
+    width: 70%;
+    height: min-content;
     margin-left: 3%;
 }
 #image11{
-    width: 20%;
-    height: 10%;
+    width: 50%;
+    height: 40%;
     margin-left: 3%;
+    
 }
 button{
     color: white;
     background-color: black;
 }
 #image12{
-    
+    width: 50%;
+    height: min-content;
+    margin-left: 3%;
+
 }
+.subscribe{
+    background-color: gray;
+    width: 60%;
+    margin-left: 20%;
+
+}
+.rafage{
+    margin-left: 60%;
+}
+.h3{
+   margin-left: 20%; 
+
+}
+.Button{
+    margin-left: 20%;
+
+}
+.cc{
+    margin-left: 20%;
+}
+.footer{
+    display:flex;
+}
+.help{
+    margin-left: 5%;
+}
+.seat{
+    margin-left: 5%;
+}
+.Download{
+    margin-left: 5%;
+}
+
+
+
+
+
+
