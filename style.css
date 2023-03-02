@@ -14,27 +14,30 @@ button{
 }
 #image1{
     height: 250px;
-    width: 200px;
+    width: 300px;
 }
 #image2{
-    height: 400px;
-    width: 250px;
+    width: 500px;
     margin-left: 90px;
     margin-top: 50px;
 }
 #image3{
-    height: 100px;
-    width: 60px;
-    margin-left: 90px;
+    width: 200px;
+    margin: 30px;
 }
-#image4{
-    height: 100px;
-    width: 60px;
-    margin: 90px;
+#image4{width: 200px; margin: 30px;}
+    
+
+#zz{
+    font-size: 60px;
 }
 h2{
     text-align: center;
     font-size: larger;
+}
+.OUR{
+    font-size: 60px;
+    padding-left: 30%;
 }
 .last{
     display: flex;
@@ -67,14 +70,14 @@ buttpon2{
     display: flex;
 }
 #image6{
-    width: 20%;
-    height: 10%;
+    width: 15%;
+    height: 15%;
     margin-left: 20%;
 }
 #image7{
-    width: 20%;
-    height: 10%;
-    margin-left: 3%;
+    width: 11%;
+    height: 11%;
+    margin-left: 5%;
 }
 #image8{
     width: 20%;
@@ -85,6 +88,11 @@ buttpon2{
 .image13{
     display: flex;
 }
+#BB{
+    font-size: 60PX;
+    align-items: center;
+
+}
 
 #image10{
     width: 70%;
@@ -93,7 +101,7 @@ buttpon2{
 }
 #image11{
     width: 50%;
-    height: 40%;
+    height: 90%;
     margin-left: 3%;
     
 }
@@ -139,7 +147,9 @@ button{
 .Download{
     margin-left: 5%;
 }
-
+.royal{
+    display: flex;
+}
 
 
 
